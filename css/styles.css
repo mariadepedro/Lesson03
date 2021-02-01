@@ -1,0 +1,59 @@
+/* COLOR PALETTE
+ #f7ede2 - almost white
+ #84a59d - dark grey/blue
+ #f28482 - dark pink
+ #f6bd60 - YELLOW
+ #f5cac3 - light pink */
+
+ /* Global styles
+------------------------------------*/
+body {
+    color: #84a59d;
+}
+img {
+    width: 300px;
+}
+a {
+    color: #f6bd60;
+}
+a:hover {
+    text-decoration: none;
+}
+/* Profile
+------------------------------------*/
+header {
+    background:#f28482;
+    color: #f7ede2;
+}
+/* Projects
+------------------------------------*/
+.projects {
+    background:#f7ede2;
+}
+.projects a {
+    color:  #f28482;
+}
+.projects .btn {
+    color: #f7ede2;
+    background: #f28482;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+.projects .btn:hover {
+    background: rgba(242,132,130, 80%);
+}
+/* Work Experience
+------------------------------------*/
+.work-experience {
+    background:#f5cac3;
+}
+/* Education
+------------------------------------*/
+/* Contact Info
+------------------------------------*/
+footer {
+    background: #84a59d;
+    color: #f7ede2;
+    }
+}
